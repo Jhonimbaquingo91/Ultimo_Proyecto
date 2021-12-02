@@ -17,18 +17,24 @@
     <link rel="stylesheet" href="css/EstilostipoNetflix.css"/>
         	<link rel="stylesheet"href="https://use.fontawesome.com/releases/v5.0.8/css/solid.css"/>
     <script src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+
+
 </head>
 
 <body>
 
     <form runat="server">
 
-    
     <div class="container p-3 p-md-4 rounded-lg mb-5">
                 <div class="btn p-3 p-md-4"  >
             <button type="button" class="btn btn-danger">
                 <asp:HyperLink ID="HyperLink1" CssClass="btn btn-danger" runat="server" NavigateUrl="~/Inicio/inicio.aspx"><i style="font-size:20px" class="far fa-times-circle"></i></asp:HyperLink>
             </button>
+        </div>
+        <div class="btn p-3 p-md-4"  >
+            
+                    <i class="far fa-user" style="margin-right: -1500px; color: white; font-size: 30px"></i>
+
         </div>
         <section class="border-redondo"  style="background-color: #0e1117">
             <div class="row">
