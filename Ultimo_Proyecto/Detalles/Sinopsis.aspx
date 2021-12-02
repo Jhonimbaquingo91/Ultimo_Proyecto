@@ -55,9 +55,13 @@
                                 </ul>
                             </div>
                             <div class="btn p-3 p-md-4">
-                                <button type="button" class="btn btn-outline-success">ALQUILAR</button>
-                                <button type="button" class="btn btn-outline-warning">COMPRAR</button>
-                                <button type="button" class="btn btn-secondary">VER TRAILER</button>
+                                <button type="button" class="btn btn-outline-dark">
+                                     <asp:HyperLink ID="HyperLink2" CssClass="btn btn-success" runat="server" NavigateUrl="~/Recursos/Factura.aspx">Alquilar</asp:HyperLink>
+                                </button>
+                                <button type="button" class="btn btn-outline-dark">
+                                    <asp:HyperLink ID="HyperLink3" CssClass="btn btn-danger" runat="server" NavigateUrl="~/Inicio/inicio.aspx">Comprar</asp:HyperLink>
+                                </button>
+                                <button type="button" class="btn btn-dark">VER TRAILER</button>
                                 
                             </div>
                         </div>

@@ -84,8 +84,8 @@
                             </div>
                             <br />
                             <div class="container-login100-form-btn">
-                                <button type="button" class="btn btn-success">
-                                    <asp:HyperLink ID="HyperLink1" CssClass="btn btn-success" runat="server" NavigateUrl="~/Detalles/Sinopsis.aspx"><i style="font-size:20px" class="far fa-times-circle"></i></asp:HyperLink>
+                                <button type="button">
+                                    <asp:HyperLink ID="HyperLink1" CssClass="btn btn-success login100-form-btn" runat="server" NavigateUrl="~/Detalles/Sinopsis.aspx">Cancelar</i></asp:HyperLink>
                                 </button>
                             </div>
                             <br />
