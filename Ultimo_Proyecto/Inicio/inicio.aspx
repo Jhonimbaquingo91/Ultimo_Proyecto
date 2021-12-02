@@ -9,7 +9,8 @@
      <link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css'/>
      <link rel="stylesheet" href="CSS/style.css"/>
 	<link rel="stylesheet" href="CSS/EstilostipoNetflix.css"/>
-	<link rel="stylesheet"href="https://use.fontawesome.com/releases/v5.0.8/css/solid.css"/>    <script src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+	<link rel="stylesheet"href="https://use.fontawesome.com/releases/v5.0.8/css/solid.css"/>
+    <script src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
 
 
 </head>
@@ -99,7 +100,7 @@
 			<div class="slick-track" id="track">
 				<div class="slick">
 					<div>
-						<a href="#">
+						<a href="../Detalles/Sinopsis.aspx">
 							<%--<h4><small>Share Your Message</small>Watch</h4>--%>
 							<picture>
 								<img src="images/1.jpg" alt="Image">								
