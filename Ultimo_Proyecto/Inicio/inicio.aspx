@@ -87,13 +87,13 @@
                 </div>
                 <!-- PELICULAS -->
                 	<!-- Intro TERROR-->
-	<div class="container ">
-		<br> <br>
+	<div class="container " style="margin-top: 7px">
+
 		<h2 class="thin" style="color: white;">Terror</h2><br>
 	</div>
 	<!-- /Intro-->
 
-	<div class="Carousel">
+	<div class="Carousel" style="background-color:white">
 		<div class="slick-list" id="slick-list">
 			<button class="slick-arrow slick-prev" id="button-prev" data-button="button-prev" onclick="app.processingButton(event)">
 				<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-left" class="svg-inline--fa fa-chevron-left fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M34.52 239.03L228.87 44.69c9.37-9.37 24.57-9.37 33.94 0l22.67 22.67c9.36 9.36 9.37 24.52.04 33.9L131.49 256l154.02 154.75c9.34 9.38 9.32 24.54-.04 33.9l-22.67 22.67c-9.37 9.37-24.57 9.37-33.94 0L34.52 272.97c-9.37-9.37-9.37-24.57 0-33.94z"></path></svg>
@@ -258,13 +258,13 @@
 <!-- Intro TERROR FIN-->
 
 						<!-- Intro ANIME-->
-		<div class="container">
-			<br> <br>
+		<div class="container" style="margin-top: 7px">
+
 			<h2 class="thin" style="color: white;">Anime</h2><br>
 		</div>
 		<!-- /Intro Anime cerrar-->
 
-		<div class="Carousel">
+		<div class="Carousel" style="background-color:white">
 			<div class="slick-list" id="slick-list">
 				<button class="slick-arrow slick-prev" id="button-prev" data-button="button-prev" onclick="app.processingButton(event)">
 					<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-left" class="svg-inline--fa fa-chevron-left fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M34.52 239.03L228.87 44.69c9.37-9.37 24.57-9.37 33.94 0l22.67 22.67c9.36 9.36 9.37 24.52.04 33.9L131.49 256l154.02 154.75c9.34 9.38 9.32 24.54-.04 33.9l-22.67 22.67c-9.37 9.37-24.57 9.37-33.94 0L34.52 272.97c-9.37-9.37-9.37-24.57 0-33.94z"></path></svg>
@@ -428,13 +428,13 @@
 		</div>
 	<!-- Intro ANIME FIN-->
 					<!-- Intro ACCION-->
-			<div class="container">
-				<br> <br>
+			<div class="container" style="margin-top: 7px">
+
 				<h2 class="thin" style="color: white;">Accion</h2><br>
 			</div>
 			
 
-		<div class="Carousel">
+		<div class="Carousel" style="background-color:white">
 			<div class="slick-list" id="slick-list">
 				<button class="slick-arrow slick-prev" id="button-prev" data-button="button-prev" onclick="app.processingButton(event)">
 					<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-left" class="svg-inline--fa fa-chevron-left fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M34.52 239.03L228.87 44.69c9.37-9.37 24.57-9.37 33.94 0l22.67 22.67c9.36 9.36 9.37 24.52.04 33.9L131.49 256l154.02 154.75c9.34 9.38 9.32 24.54-.04 33.9l-22.67 22.67c-9.37 9.37-24.57 9.37-33.94 0L34.52 272.97c-9.37-9.37-9.37-24.57 0-33.94z"></path></svg>
@@ -599,13 +599,13 @@
 <!-- /Intro ACCION cerrar-->
 
 			<!-- Intro INFANTIL-->
-			<div class="container">
-				<br> <br>
+			<div class="container" style="margin-top: 7px">
+
 				<h2 class="thin" style="color: white;">Infantiles</h2><br>
 			</div>
 			
 
-		<div class="Carousel">
+		<div class="Carousel" style="background-color:white">
 			<div class="slick-list" id="slick-list">
 				<button class="slick-arrow slick-prev" id="button-prev" data-button="button-prev" onclick="app.processingButton(event)">
 					<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-left" class="svg-inline--fa fa-chevron-left fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M34.52 239.03L228.87 44.69c9.37-9.37 24.57-9.37 33.94 0l22.67 22.67c9.36 9.36 9.37 24.52.04 33.9L131.49 256l154.02 154.75c9.34 9.38 9.32 24.54-.04 33.9l-22.67 22.67c-9.37 9.37-24.57 9.37-33.94 0L34.52 272.97c-9.37-9.37-9.37-24.57 0-33.94z"></path></svg>
@@ -770,13 +770,13 @@
 <!-- /Intro INFANTIL cerrar-->
 
 			<!-- Intro COMEDIA-->
-			<div class="container">
-				<br> <br>
+			<div class="container" style="margin-top: 7px">
+
 				<h2 class="thin" style="color: white;">Comedia</h2><br>
 			</div>
 			
-
-		<div class="Carousel">
+								
+		<div class="Carousel" style="background-color:white">
 			<div class="slick-list" id="slick-list">
 				<button class="slick-arrow slick-prev" id="button-prev" data-button="button-prev" onclick="app.processingButton(event)">
 					<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-left" class="svg-inline--fa fa-chevron-left fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M34.52 239.03L228.87 44.69c9.37-9.37 24.57-9.37 33.94 0l22.67 22.67c9.36 9.36 9.37 24.52.04 33.9L131.49 256l154.02 154.75c9.34 9.38 9.32 24.54-.04 33.9l-22.67 22.67c-9.37 9.37-24.57 9.37-33.94 0L34.52 272.97c-9.37-9.37-9.37-24.57 0-33.94z"></path></svg>
@@ -938,15 +938,15 @@
 				</button>
 			</div>
 		</div>
+
 <!-- /Intro COMEDIA cerrar-->
 			<!-- Intro AMOR-->
-			<div class="container">
-				<br> <br>
+			<div class="container" style="margin-top: 7px">
 				<h2 class="thin" style="color: white;">Amor</h2><br>
 			</div>
 			
 
-		<div class="Carousel">
+		<div class="Carousel" style="background-color:white">
 			<div class="slick-list" id="slick-list">
 				<button class="slick-arrow slick-prev" id="button-prev" data-button="button-prev" onclick="app.processingButton(event)">
 					<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-left" class="svg-inline--fa fa-chevron-left fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M34.52 239.03L228.87 44.69c9.37-9.37 24.57-9.37 33.94 0l22.67 22.67c9.36 9.36 9.37 24.52.04 33.9L131.49 256l154.02 154.75c9.34 9.38 9.32 24.54-.04 33.9l-22.67 22.67c-9.37 9.37-24.57 9.37-33.94 0L34.52 272.97c-9.37-9.37-9.37-24.57 0-33.94z"></path></svg>
