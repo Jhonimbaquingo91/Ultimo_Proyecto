@@ -67,6 +67,29 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Detalles\css\EstilostipoNetflix.css" />
+    <Content Include="Detalles\css\stilo.css" />
+    <Content Include="Detalles\img\1.jpg" />
+    <Content Include="Detalles\img\10.jpg" />
+    <Content Include="Detalles\img\11.jpg" />
+    <Content Include="Detalles\img\12.jpg" />
+    <Content Include="Detalles\img\13.jpg" />
+    <Content Include="Detalles\img\14.jpg" />
+    <Content Include="Detalles\img\15.jpg" />
+    <Content Include="Detalles\img\1m.jpg" />
+    <Content Include="Detalles\img\2.jpg" />
+    <Content Include="Detalles\img\3.jpg" />
+    <Content Include="Detalles\img\4.jpg" />
+    <Content Include="Detalles\img\5.jpg" />
+    <Content Include="Detalles\img\6.jpg" />
+    <Content Include="Detalles\img\7.jpg" />
+    <Content Include="Detalles\img\8.jpg" />
+    <Content Include="Detalles\img\9.jpg" />
+    <Content Include="Detalles\img\pel1.jpg" />
+    <Content Include="Detalles\img\pel2.jpg" />
+    <Content Include="Detalles\img\pel3.jpg" />
+    <Content Include="Detalles\js\script.js" />
+    <Content Include="Detalles\Sinopsis.aspx" />
     <Content Include="Inicio\CSS\EstilostipoNetflix.css" />
     <Content Include="Inicio\CSS\stilo.css" />
     <Content Include="Inicio\CSS\style.css" />
@@ -92,6 +115,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Detalles\Sinopsis.aspx.cs">
+      <DependentUpon>Sinopsis.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Detalles\Sinopsis.aspx.designer.cs">
+      <DependentUpon>Sinopsis.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Inicio\inicio.aspx.cs">
       <DependentUpon>inicio.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -110,9 +140,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Detalles\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
