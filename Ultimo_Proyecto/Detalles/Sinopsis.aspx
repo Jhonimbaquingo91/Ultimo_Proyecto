@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 
-<html>
+<html lang="es">
 	<head>
 	
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -61,7 +61,11 @@
                                 <button type="button" class="btn btn-outline-dark">
                                     <asp:HyperLink ID="HyperLink3" CssClass="btn btn-danger" runat="server" NavigateUrl="~/Inicio/inicio.aspx">Comprar</asp:HyperLink>
                                 </button>
-                                <button type="button" class="btn btn-dark">VER TRAILER</button>
+                                <button type="button" class="btn btn-dark">
+                                    <asp:HyperLink ID="HyperLink4" CssClass="btn btn-dark" runat="server" NavigateUrl="https://www.youtube.com/watch?v=rHShMeiP7r0">Ver Trailer</asp:HyperLink>
+                                </button>
+
+                                
                                 
                             </div>
                         </div>
